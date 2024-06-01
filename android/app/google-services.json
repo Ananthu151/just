@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "464577797808",
+    "project_id": "just-food-amentware",
+    "storage_bucket": "just-food-amentware.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464577797808:android:81ec81e1637edc57c2e575",
+        "android_client_info": {
+          "package_name": "com.example.just_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464577797808-n0shpea3flf7ash3r7jtlokq5sithhdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMJl9ei4tf07m1M-CURWTu2YTOVypC9lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464577797808-n0shpea3flf7ash3r7jtlokq5sithhdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
